@@ -1,0 +1,23 @@
+# Ignore Python stuff
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Ignore environment
+myvenv/
+env/
+venv/
+
+# Ignore Django stuff
+*.log
+db.sqlite3
+staticfiles/
+*.pot
+*.pyc
+
+# VS Code settings (if using it)
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
